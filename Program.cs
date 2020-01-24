@@ -6,7 +6,7 @@ namespace Solid
     {
         static void Main(string[] args)
         {
-            Desenvolvedor desenvolvedor = new Desenvolvedor();
+            Desenvolvedor desenvolvedor = new Desenvolvedor(new DezOuVintePorcento());
             Funcionario funcionario = new Funcionario(desenvolvedor, 4000);
 
             CalculadoraDeSalario calculaSalario = new CalculadoraDeSalario();

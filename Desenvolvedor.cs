@@ -6,5 +6,10 @@ namespace Solid
 {
     class Desenvolvedor : Cargo
     {
+        public Desenvolvedor(IRegraDeCalculo regra) : base(regra)
+        {
+
+        }
+
     }
 }

@@ -17,5 +17,10 @@ namespace Solid
             this.SalarioBase = salarioBase;
         }
 
+        public double CalculaSalario()
+        {
+            return this.Cargo.Regra.Calcula(this);
+        }
+
     }
 }
