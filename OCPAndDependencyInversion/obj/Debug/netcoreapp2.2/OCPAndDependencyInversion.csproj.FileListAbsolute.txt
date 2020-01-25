@@ -1,0 +1,11 @@
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\obj\Debug\netcoreapp2.2\OCPAndDependencyInversion.csprojAssemblyReference.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\obj\Debug\netcoreapp2.2\OCPAndDependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\obj\Debug\netcoreapp2.2\OCPAndDependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\obj\Debug\netcoreapp2.2\OCPAndDependencyInversion.AssemblyInfo.cs
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\bin\Debug\netcoreapp2.2\OCPAndDependencyInversion.deps.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\bin\Debug\netcoreapp2.2\OCPAndDependencyInversion.runtimeconfig.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\bin\Debug\netcoreapp2.2\OCPAndDependencyInversion.runtimeconfig.dev.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\bin\Debug\netcoreapp2.2\OCPAndDependencyInversion.dll
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\bin\Debug\netcoreapp2.2\OCPAndDependencyInversion.pdb
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\obj\Debug\netcoreapp2.2\OCPAndDependencyInversion.dll
+C:\Users\Probook\Documents\Estudos\solidcsharp\OCPAndDependencyInversion\obj\Debug\netcoreapp2.2\OCPAndDependencyInversion.pdb

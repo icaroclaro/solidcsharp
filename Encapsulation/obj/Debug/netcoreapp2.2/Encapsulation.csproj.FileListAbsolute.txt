@@ -1,0 +1,10 @@
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.deps.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.runtimeconfig.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.runtimeconfig.dev.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.dll
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\bin\Debug\netcoreapp2.2\Encapsulation.pdb
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.AssemblyInfo.cs
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.dll
+C:\Users\Probook\Documents\Estudos\solidcsharp\Encapsulation\obj\Debug\netcoreapp2.2\Encapsulation.pdb
