@@ -1,0 +1,11 @@
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\bin\Debug\netcoreapp2.2\SingleResponsibility.deps.json
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\bin\Debug\netcoreapp2.2\SingleResponsibility.runtimeconfig.json
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\bin\Debug\netcoreapp2.2\SingleResponsibility.runtimeconfig.dev.json
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\bin\Debug\netcoreapp2.2\SingleResponsibility.dll
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\bin\Debug\netcoreapp2.2\SingleResponsibility.pdb
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\obj\Debug\netcoreapp2.2\SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\obj\Debug\netcoreapp2.2\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\obj\Debug\netcoreapp2.2\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\obj\Debug\netcoreapp2.2\SingleResponsibility.AssemblyInfo.cs
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\obj\Debug\netcoreapp2.2\SingleResponsibility.dll
+C:\Users\Probook\Documents\Estudos\Solid\Solid\SingleResponsibility\obj\Debug\netcoreapp2.2\SingleResponsibility.pdb

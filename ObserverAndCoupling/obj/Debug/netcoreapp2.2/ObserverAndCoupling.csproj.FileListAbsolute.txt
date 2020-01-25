@@ -1,0 +1,11 @@
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\bin\Debug\netcoreapp2.2\ObserverAndCoupling.deps.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\bin\Debug\netcoreapp2.2\ObserverAndCoupling.runtimeconfig.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\bin\Debug\netcoreapp2.2\ObserverAndCoupling.runtimeconfig.dev.json
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\bin\Debug\netcoreapp2.2\ObserverAndCoupling.dll
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\bin\Debug\netcoreapp2.2\ObserverAndCoupling.pdb
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\obj\Debug\netcoreapp2.2\ObserverAndCoupling.csprojAssemblyReference.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\obj\Debug\netcoreapp2.2\ObserverAndCoupling.csproj.CoreCompileInputs.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\obj\Debug\netcoreapp2.2\ObserverAndCoupling.AssemblyInfoInputs.cache
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\obj\Debug\netcoreapp2.2\ObserverAndCoupling.AssemblyInfo.cs
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\obj\Debug\netcoreapp2.2\ObserverAndCoupling.dll
+C:\Users\Probook\Documents\Estudos\solidcsharp\ObserverAndCoupling\obj\Debug\netcoreapp2.2\ObserverAndCoupling.pdb
