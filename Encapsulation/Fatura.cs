@@ -38,7 +38,5 @@ namespace Encapsulation
                 this.Pago = true;
             }
         }
-
-
     }
 }
